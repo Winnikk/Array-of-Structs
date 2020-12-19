@@ -1,7 +1,3 @@
-/* ALGO@ IN1 20A LAB01
-   KACPER WINNIK
-   wk47616@zut.edu.pl*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
